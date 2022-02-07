@@ -1,0 +1,46 @@
+.img_ferran {
+  width: 1600px;
+  height: 640px;
+  margin: 120px 0 375px;
+  padding: 70px 485px 112px;
+  object-fit: contain;
+}
+
+.Vende-tu-casa-en-un {
+  width: 449px;
+  height: 168px;
+  margin: 0 75px 57px 106px;
+  font-family: Lato;
+  font-size: 70px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--white);
+}
+
+.Vende-tu-casa-en-un .text-style-1 {
+  font-weight: bold;
+}
+
+.Rectangle {
+  width: 1600px;
+  height: 605px;
+  background-image: linear-gradient(
+    to bottom,
+    var(--cerulean),
+    rgba(0, 139, 207, 0) 86%
+  );
+}
+
+.Rectangle_2 {
+  width: 630px;
+  height: 80px;
+  margin: 57px 0 27px;
+  padding: 16px 15px 14px 20px;
+  border-radius: 3px;
+  box-shadow: 4px 4px 8px 0 rgba(23, 53, 111, 0.2);
+  background-color: var(--white);
+}
